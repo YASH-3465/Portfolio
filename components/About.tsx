@@ -46,7 +46,7 @@ const About = (): React.ReactNode => {
         <div className="md:w-1/3 lg:w-1/4 flex-shrink-0 relative">
           <div className="absolute inset-0 bg-gradient-to-br from-purple-600 to-pink-600 rounded-full blur-2xl opacity-50"></div>
           <img
-            src="photo.jpg"
+            src="/photo.jpg"
             alt="Yashwanth Goud"
             className="relative rounded-full border-4 border-slate-700 shadow-lg w-56 h-56 md:w-64 md:h-64 mx-auto object-cover"
           />

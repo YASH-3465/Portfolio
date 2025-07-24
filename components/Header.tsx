@@ -56,7 +56,7 @@ const Header = (): React.ReactNode => {
                     </motion.div>
                 </div>
                 <motion.div variants={itemVariants} className="hidden md:block">
-                    <img src="Coding.png" alt="Animated plexus network graphic" className="w-full h-auto rounded-lg" />
+                    <img src="/Coding.png" alt="Animated plexus network graphic" className="w-full h-auto rounded-lg" />
                 </motion.div>
             </motion.div>
         </header>
